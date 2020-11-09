@@ -1,10 +1,5 @@
 ## Welcome to GitHub Pages
 
-/TODO Edit this default example and make a 'useful' webpage!
-
-<iframe src="https://www.codeproject.com/members/flair/14374969" 
-                height="200" width="250" scrolling="no" frameborder="no"></iframe>
-
 You can use the [editor on GitHub](https://github.com/definedrisk/definedrisk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
